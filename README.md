@@ -1,0 +1,4 @@
+usefulLibrary
+=============
+
+some useful library
